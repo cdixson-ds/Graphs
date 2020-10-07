@@ -22,4 +22,4 @@ print(alpha)
 for x in alpha:
     print(x)
 
-sorted()
+
